@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Brass Candlestick
-- [ ] Garden Shears
+- [x] Garden Shears
 - [ ] Antique Compass
 
 ## Notes
