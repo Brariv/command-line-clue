@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Brass Candlestick
 - [x] Garden Shears
-- [ ] Antique Compass
+- [x] Antique Compass
 
 ## Notes
 *Use this space to record your findings and deductions...*
